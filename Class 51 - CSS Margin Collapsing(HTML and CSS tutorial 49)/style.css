@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+
+.box1, .box2{
+    border: 2px solid #444;
+    padding: 10px;
+
+}
+
+.box1{
+    margin-bottom: 40px;
+}
+
+.box2{
+    margin-top: 90px;
+}

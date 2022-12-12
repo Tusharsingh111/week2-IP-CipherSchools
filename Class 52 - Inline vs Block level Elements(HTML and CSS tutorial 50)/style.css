@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #444;
+}
+
+h1, h2{
+    border: 2px solid #222;
+    /* width: 500px; */
+    display: inline;
+}
+
+/* h1{
+    margin: 100px; */
+    /* padding: 100px;
+} */
+
+a{
+    border: 2px solid rgb(18, 219, 209);
+    /* margin: 100px; */
+    padding: 0 50px;
+    display: block;
+    margin: 50px 10px;
+
+}

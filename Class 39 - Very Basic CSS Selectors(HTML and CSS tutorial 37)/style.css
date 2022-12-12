@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main-heading{
+    background-color: #cdcdcd;
+}
+
+.main-section{
+    background-color: #efefef;
+}
+
+p{
+    color:red;
+}
